@@ -12,9 +12,6 @@ Motivation
 This project is completed to fulfill the part of the requirements of UC Berkeley's Professional Certificate in Machine Learning and Artificial Intelligence.
 
 
-Data
-
-
 Findings 
 
 
@@ -24,8 +21,7 @@ Summary/Conclusion
 
 Access
 
-Link to notebook
+Link to notebook: http://localhost:8890/lab/tree/Downloads/ML%20ipynb/Module%2011/PracticalApplicationAssignment_II.ipynb
 
-Link to download: 959711
+Link to download: http://localhost:8890/files/Downloads/ML%20ipynb/Module%2011/PracticalApplicationAssignment_II.ipynb?_xsrf=2%7Cce380d16%7C508df55b5855057964bb43bed3542e83%7C1654472332
 
-Link to data: 
