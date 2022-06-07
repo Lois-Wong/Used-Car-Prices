@@ -23,5 +23,8 @@ Access
 
 Link to notebook: http://localhost:8890/lab/tree/Downloads/ML%20ipynb/Module%2011/PracticalApplicationAssignment_II.ipynb
 
+Part II: http://localhost:8890/lab/tree/Downloads/ML%20ipynb/Module%2011/PAA_II_evaluation.ipynb
+
 Link to download: http://localhost:8890/files/Downloads/ML%20ipynb/Module%2011/PracticalApplicationAssignment_II.ipynb?_xsrf=2%7Cce380d16%7C508df55b5855057964bb43bed3542e83%7C1654472332
 
+Link to download Part II: http://localhost:8890/files/Downloads/ML%20ipynb/Module%2011/PAA_II_evaluation.ipynb?_xsrf=2%7Cce380d16%7C508df55b5855057964bb43bed3542e83%7C1654472332
